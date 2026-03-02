@@ -4,11 +4,11 @@
   margin: 0;
 }
 
-html{
+body {
   background-color: #FEFFDB;
   font-family: Garamond, serif;
   font-size: 16px;
-  color: #25050f;
+  color: #3c000a;
 }
 
 img{
@@ -21,12 +21,14 @@ h1{
   color: #ff748c;
   font-weight: bold;
   text-align: center;
+  text-transform: uppercase;
 }
 
 h2{
   font-size: 1.5rem; 
-  color: #ff748c;
+  color: #FCAC39;
   font-weight: bold;
+  text-transform: uppercase;
 }
 
 .subtitle, .author{
@@ -34,12 +36,13 @@ h2{
 }
 
 .time{
-  color:#DA2B42;
+  color: #FB9501;
   font-weight: bold;
 }
   
 ul, ol {
   margin-left: 25px;
+  list-style-type: square; 
 }
 /*select html and set the background color, color, font family with fallback, and font size. */
 /*change img height to 300px and width to auto*/
