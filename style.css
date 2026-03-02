@@ -43,6 +43,22 @@ h2{
   color: #EF8C98;
   font-weight: bold;
 }
+
+a:link {
+   color: #EF8C98;
+}
+
+a:visited {
+   color: #FB9501;
+}
+
+a:hover {
+   color: #DA2B42;
+}
+
+a:active {
+   color: #74d2ff;
+}
   
 ul, ol {
   margin-left: 25px;
