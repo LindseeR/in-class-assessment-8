@@ -2,7 +2,6 @@
 * {
   padding: 0;
   margin: 0;
-  box-sizing: border-box;
 }
 
 body {
@@ -13,9 +12,12 @@ body {
 }
 
 img{
-  height: 800px;
-  width: auto;
-  
+  height: 300px;
+  width: auto; 
+}
+
+figure {
+   text-align: center;
 }
 
 h1{
