@@ -2,6 +2,7 @@
 * {
   padding: 0;
   margin: 0;
+  box-sizing: border-box;
 }
 
 body {
@@ -9,7 +10,6 @@ body {
   font-family: Garamond, serif;
   font-size: 16px;
   color: #3c000a;
-  text-align: center;
 }
 
 img{
