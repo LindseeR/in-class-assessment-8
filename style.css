@@ -7,7 +7,7 @@
 html{
   background-color: #f9bc60;
   font-family: Garamond, serif;
-  font-size: 18px;
+  font-size: 16px;
   color: #001e1d;
 }
 
@@ -19,15 +19,14 @@ img{
 h1{
   h1{
   font-size: 3.5rem;
-  color:#e16162 ;
-  text-transform: uppercase;
+  color: #00214d;
   font-weight: bold;
   text-align: center;
 }
 
 h2{
   font-size: 1.5rem; 
-  color: #d9376e;
+  color: #ff5470;
   font-weight: bold;
 }
   
