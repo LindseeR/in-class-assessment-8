@@ -12,7 +12,7 @@ body {
 }
 
 img{
-  height: 600px;
+  height: 800px;
   width: auto;
 }
 
@@ -22,6 +22,10 @@ h1{
   font-weight: bold;
   text-align: center;
   text-transform: uppercase;
+}
+
+h3{
+  color: #EF8C98;
 }
 
 h2{
@@ -36,7 +40,7 @@ h2{
 }
 
 .time{
-  color: #FB9501;
+  color: #EF8C98;
   font-weight: bold;
 }
   
